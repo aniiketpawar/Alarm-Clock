@@ -1,3 +1,4 @@
+#A simple python mini project where I have built an Alarm Clock. Once the alarm clock expires it plays a sound.
 # import playsound
 import time 
 
